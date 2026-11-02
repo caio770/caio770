@@ -4,13 +4,7 @@ Sou estudante de **Ciência da Computação na UDF**, atualmente no 2º período
 
 Estou desenvolvendo minhas habilidades em programação e desenvolvimento de software, compartilhando projetos acadêmicos e pessoais durante minha jornada de aprendizado.
 
- 💻 Tecnologias e conhecimentos
-
-- Python
-- C
-- HTML e CSS
-- SQL e banco de dados
-- Git e GitHub
+ ## 💻 Tecnologias e conhecimentos
 
 🚀 Objetivos
 
