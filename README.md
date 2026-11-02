@@ -15,7 +15,6 @@
 
 </div>
 
----
 
 <h2 align="center">👨‍💻 Sobre mim</h2>
 
@@ -29,7 +28,7 @@
   registrar minha evolução e praticar meus conhecimentos.
 </p>
 
----
+
 
 <h2 align="center">⚡ Tecnologias e ferramentas</h2>
 
@@ -46,7 +45,6 @@
 
 </div>
 
----
 
 
 
@@ -66,7 +64,7 @@ Sistema acadêmico desenhado para modelar, organizar e gerenciar o fluxo de info
 • 👉 https://github.com/DBCS0X/MVE-MOELO-DE-VENDAS-E-ESTOQUE
 
 
----
+
 
 <h2 align="center">🎯 Objetivos</h2>
 
@@ -80,7 +78,7 @@ Sistema acadêmico desenhado para modelar, organizar e gerenciar o fluxo de info
 
 </div>
 
----
+
 
 <h2 align="center">📫 Entre em contato</h2>
 
