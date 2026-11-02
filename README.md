@@ -24,7 +24,10 @@ Estou desenvolvendo minhas habilidades em programação e desenvolvimento de sof
 Aqui você encontrará projetos acadêmicos, exercícios e experimentos desenvolvidos durante meus estudos.
 
 - BD Vendas: projeto acadêmico de vendas e estoque.
+https://github.com/DBCS0X/MVE-MOELO-DE-VENDAS-E-ESTOQUE
+
 - Desafio Colaborativo Git: projeto colaborativo de desenvolvimento de uma calculadora em Python.
+  https://github.com/DBCS0X/Desafio_colaborativo_Git
 
  📊 Análise de mercado e aprendizados
 
