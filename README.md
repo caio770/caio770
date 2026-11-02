@@ -1,106 +1,88 @@
- <div align="center">
-
-  <h1>Olá! Eu sou o Caio 👋</h1>
-
-  <h3>🎓 Estudante de Ciência da Computação | UDF</h3>
-
-  <p>
-    <em>Aprendendo. Desenvolvendo. Evoluindo.</em>
-  </p>
-
-  <a href="https://github.com/caio770">
-    <img src="https://img.shields.io/badge/GitHub-caio770-181717?style=for-the-badge&logo=github"/>
-  </a>
-
-</div>
-
----
-
-<h2>👨‍💻 Sobre mim</h2>
-
-<p>
-  Sou estudante do <strong>2º período de Ciência da Computação na UDF</strong>.
-  Atualmente, estou desenvolvendo meus conhecimentos em programação,
-  desenvolvimento web e criação de soluções tecnológicas.
-</p>
-
-<p>
-  Utilizo o GitHub para compartilhar meus projetos acadêmicos,
-  registrar minha evolução e colocar em prática os conhecimentos adquiridos
-  durante minha graduação.
-</p>
-
----
-
-<h2>💻 Tecnologias e conhecimentos</h2>
-
-<p>Estas são algumas das tecnologias com as quais estou aprendendo e trabalhando:</p>
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+
+  <a href="https://github.com/caio770">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Caio!;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+em+forma%C3%A7%C3%A3o;Aprendendo.+Desenvolvendo.+Evoluindo." alt="Animação de apresentação"/>
+  </a>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Universidade-UDF-7B2CBF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Curso-Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o-6A0DAD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Per%C3%ADodo-2%C2%BA-9333EA?style=for-the-badge"/>
 
 </div>
 
 ---
 
-<h2>🚀 Objetivos</h2>
+<h2 align="center">👨‍💻 Sobre mim</h2>
 
-<ul>
-  <li>Aprimorar minhas habilidades em programação.</li>
-  <li>Desenvolver projetos práticos e acadêmicos.</li>
-  <li>Aprender novas tecnologias e ferramentas.</li>
-  <li>Adquirir experiência na área de desenvolvimento de software.</li>
-  <li>Construir soluções que contribuam para minha evolução profissional.</li>
-</ul>
-
----
-
-<h2>📂 Projetos em destaque</h2>
-
-<h3>🐍 Desafio Colaborativo Git</h3>
-
-<p>
-  Projeto colaborativo desenvolvido em Python, com foco na prática
-  de programação e utilização do Git e GitHub.
+<p align="center">
+  Sou estudante do <strong>2º período de Ciência da Computação na UDF</strong>.
+  <br/>
+  Estou desenvolvendo minhas habilidades em programação,
+  desenvolvimento web e criação de soluções tecnológicas.
+  <br/><br/>
+  Utilizo o GitHub para compartilhar projetos acadêmicos,
+  registrar minha evolução e praticar meus conhecimentos.
 </p>
 
-<a href="https://github.com/caio770/Desafio_colaborativo_Git">
-  <img src="https://img.shields.io/badge/Ver%20projeto-181717?style=for-the-badge&logo=github"/>
-</a>
+---
 
-<h3>📊 Modelo de Vendas e Estoque</h3>
+<h2 align="center">⚡ Tecnologias e ferramentas</h2>
 
-<p>
-  Projeto acadêmico desenvolvido durante a graduação, relacionado
-  à organização e ao gerenciamento de informações de vendas e estoque.
-</p>
+<div align="center">
 
-<a href="https://github.com/caio770/MVE-MOELO-DE-VENDAS-E-ESTOQUE">
-  <img src="https://img.shields.io/badge/Ver%20projeto-181717?style=for-the-badge&logo=github"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,mysql,git,github,vscode&theme=dark" alt="Tecnologias"/>
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+</div>
 
 ---
 
-<h2>📚 Atualmente estudando</h2>
 
-<ul>
-  <li>Lógica de programação e estruturas de dados.</li>
-  <li>Programação em C e Python.</li>
-  <li>Desenvolvimento web com HTML e CSS.</li>
-  <li>Banco de dados e linguagem SQL.</li>
-  <li>Versionamento de código com Git e GitHub.</li>
-</ul>
+
+📂 Projetos em Destaque
+
+
+🐍 Desafio Colaborativo Git
+
+Projeto desenvolvido em Python com foco no trabalho em equipe. Essencial para praticar fluxo de trabalho Git (branches, pull requests e resolução de conflitos).
+• Tecnologias: Python, Git, GitHub
+• 👉 https://github.com/DBCS0X/Desafio_colaborativo_Git
+
+📊 Modelo de Vendas e Estoque
+
+Sistema acadêmico desenhado para modelar, organizar e gerenciar o fluxo de informações comerciais e níveis de mercadoria.
+• Tecnologias: Python, Modelagem de Dados
+• 👉 https://github.com/DBCS0X/MVE-MOELO-DE-VENDAS-E-ESTOQUE
+
 
 ---
 
-<h2>📫 Vamos nos conectar?</h2>
+<h2 align="center">🎯 Objetivos</h2>
+
+<div align="center">
+
+  <p>📚 Aprimorar meus conhecimentos em programação.</p>
+  <p>💻 Desenvolver projetos práticos e acadêmicos.</p>
+  <p>🚀 Aprender novas tecnologias.</p>
+  <p>🌐 Evoluir no desenvolvimento de software.</p>
+  <p>🤝 Conquistar experiência profissional na área de TI.</p>
+
+</div>
+
+---
+
+<h2 align="center">📫 Entre em contato</h2>
 
 <div align="center">
 
@@ -108,18 +90,21 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="COLOQUE_SEU_LINK_DO_LINKEDIN">
+  <a href="COLOQUE_SEU_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:SEU_EMAIL_PROFISSIONAL">
+  <a href="mailto:SEU_EMAIL">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <br/><br/>
 
-  <p><strong>Obrigado por visitar meu perfil! ⭐</strong></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer" width="100%" alt="Rodapé roxo"/>
 
-  <p><em>Sempre aprendendo e construindo algo novo.</em></p>
+  <p><strong>⭐ Obrigado por visitar meu perfil!</strong></p>
+
+  <p><em>Transformando conhecimento em projetos.</em></p>
 
 </div>
+
